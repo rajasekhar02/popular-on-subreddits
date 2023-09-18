@@ -10,4 +10,4 @@
 - [Reddit Api Documentation](https://www.reddit.com/dev/api)
 - [Reddit Apps](https://www.reddit.com/prefs/apps)
 - [Reddit Script type](https://github.com/reddit-archive/reddit/wiki/OAuth2-Quick-Start-Example)
--
+- All the environment variables are available in the github repo
